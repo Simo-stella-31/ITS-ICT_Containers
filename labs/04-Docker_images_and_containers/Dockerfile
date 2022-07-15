@@ -1,2 +1,2 @@
-FROM ubuntu:15.04
-CMD echo "Hello by <NOME> <COGNOME>!"
+FROM mcr.microsoft.com/windows/nanoserver:ltsc2022
+CMD echo "Hello by Simone Stella!"
